@@ -12,7 +12,9 @@ survey closing.
 ---
 ## Demo
 
-https://github.com/user-attachments/assets/16aa058d-f6b3-414d-9aab-1c85d778fbd2
+
+https://github.com/user-attachments/assets/a0f752d3-86b4-4ee4-a893-f814e4d2bd41
+
 
 ## Architecture
 
